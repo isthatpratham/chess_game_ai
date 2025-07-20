@@ -1,7 +1,7 @@
 # ♟️ Chess Game with AI (Python + Pygame)
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-![License](https://img.shields.io/github/license/isthatpratham/chess_game_ai)
+![License: MIT](https://img.shields.io/github/license/isthatpratham/chess_game_ai)
 ![Made with Pygame](https://img.shields.io/badge/Made%20with-Pygame-2b303a?logo=pygame)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
