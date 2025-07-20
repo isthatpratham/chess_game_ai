@@ -48,8 +48,6 @@ A full-featured chess game built in Python using Pygame. Supports Human vs Human
 <br>
 <img width="993" height="822" alt="Screenshot 2025-07-20 142657" src="https://github.com/user-attachments/assets/92c54b6b-6699-4825-bc52-96ae26a26145" />
 <br>
-<img width="993" height="822" alt="Screenshot 2025-07-20 142657" src="https://github.com/user-attachments/assets/3ff24354-ddcd-43eb-a421-8f0630dc984b" />
-<br>
 <img width="991" height="824" alt="Screenshot 2025-07-20 142608" src="https://github.com/user-attachments/assets/b77eec4f-6ee7-4deb-bd1e-77ef0e84482c" />
 
 
@@ -82,7 +80,6 @@ pip install pygame
 python main.py
 ```
 
----
 
 ### 📁 Folder Structure
 
@@ -95,9 +92,7 @@ python main.py
 ├── main.py               # GUI and event handling
 └── assets/
     └── pieces/           # Chess piece images (e.g. wq.png, br.png)
-```
 
----
 
 ### ⌨️ Controls
 
@@ -107,7 +102,6 @@ python main.py
 | Undo Move      | Ctrl + Z       |
 | Open Menu      | ESC            |
 
----
 
 ### 🧠 AI Logic
 
@@ -115,7 +109,7 @@ python main.py
 - **Medium**: Evaluates material on board
 - **Hard**: Minimax + alpha-beta pruning (depth: 5)
 
----
+
 
 ### 🧰 Areas of Improvement (Upcoming)
 
@@ -123,7 +117,7 @@ python main.py
 - [ ] Add **evaluation bar** to reflect real-time position score
 - [ ] Fix **UI bugs** in game mode selection screen (Human vs AI & AI vs AI)
 
----
+
 
 ### 🖼️ Custom Game Icon (Optional)
 
@@ -138,13 +132,13 @@ icon = pygame.image.load("assets/icon.png")
 pygame.display.set_icon(icon)
 ```
 
----
+
 
 ### 📜 License
 
 MIT License
 
----
+
 
 ### 👨‍💻 Author
 
@@ -154,7 +148,7 @@ MIT License
 - 💼 [LinkedIn](https://www.linkedin.com/in/pratham-debnath-894471314/)
 - 📸 [Instagram](https://www.instagram.com/prathamfrsure/)
 
----
+
 
 *Built with Python. Designed to learn, improve, and maybe even checkmate you.*
-```
+
